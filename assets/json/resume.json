@@ -84,22 +84,17 @@
   "publications": [
     {
       "name": "Learning on Large Graphs using Intersecting Communities",
-      "releaseDate": "2024-05-01",
-      "publisher": "NeurIPS 2024",
       "url": "https://arxiv.org/abs/2405.20724",
       "summary": "A new and fundamentally different pipeline for learning on very large non-sparse graphs using intersecting communities.",
       "selected": true
     },
     {
       "name": "Graph Neural Network Outputs are Almost Surely Asymptotically Constant",
-      "releaseDate": "2024-03-01",
-      "publisher": "NeurIPS 2024",
       "url": "https://arxiv.org/abs/2403.03880",
       "summary": "A new angle on the expressive power of GNNs by studying  how the predictions of a GNN probabilistic classifier evolve."
     },
     {
       "name": "Cooperative Graph Neural Networks",
-      "releaseDate": "2024-01-01",
       "publisher": "ICML 2024",
       "url": "https://arxiv.org/abs/2310.01267",
       "summary": "A more dynamic and flexible message-passing paradigm in which each node can choose a different communication strategy.",
@@ -107,22 +102,19 @@
     },
     {
       "name": "Strategic Classification with Graphs Neural Networks",
-      "releaseDate": "2023-01-01",
       "publisher": "ICLR 2023",
       "url": "https://openreview.net/forum?id=TuHkVOjSAR",
       "summary": "Learning in a setting where users that are dependant can modify their features to obtain favorable predictions."
     },
     {
       "name": "A Simple and Universal Rotation Equivariant Point-cloud Network",
-      "releaseDate": "2022-01-01",
       "publisher": "ICML TAG in ML Workshop 2022",
       "url": "https://arxiv.org/abs/2203.01216",
       "summary": "A simple architecture which is equivariant to rigid motions with the ability to approximate any equivariant function."
     },
     {
       "name": "Single-Node Attack for Fooling Graph Neural Networks",
-      "releaseDate": "2021-01-01",
-      "publisher": "Neurocomputing by Elsevier",
+      "publisher": "Neurocomputing journal by Elsevier",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S0925231222012012",
       "summary": "Showcased that GNNs are vulnerable to a realistic single-node adversarial attack, even when the attacker cannot be chosen."
     }
