@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Oxford</a>. Computer Science Department.
+subtitle: <a href='https://www.cs.ox.ac.uk/people/ben.finkelshtein/'>University of Oxford</a>. Computer Science Department.
 
 profile:
   align: right
