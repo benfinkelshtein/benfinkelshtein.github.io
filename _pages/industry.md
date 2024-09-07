@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: profiles
 permalink: /industry/
 title: Professional Experience
 description: 
