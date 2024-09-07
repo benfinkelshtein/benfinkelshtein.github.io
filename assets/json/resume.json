@@ -1,200 +1,258 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Ben Finkelshtein",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ben.finkelshtein@cs.ox.ac.uk",
+//    "phone": "(912) 123-4567",
+    "url": "https://www.linkedin.com/in/ben-finkelshtein/",
+    "summary": "PhD candidate at the University of Oxford under the supervision of Prof. Michael Bronstein and Dr. {\\.I}smail {\\.I}lkan Ceylan. With extensive experience in both academia and industry, I have worked on areas such as natural language processing, anomaly detection, and time series forecasting.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Oxford",
+      "countryCode": "UK",
+      "region": "Oxfordshire"
     },
     "profiles": [
       {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=goWM7VwAAAAJ&hl=iw"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Ben Finkelshtein",
+        "url": "https://www.linkedin.com/in/ben-finkelshtein/"
+      },
+      {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "benfinkelshtein",
+        "url": "https://twitter.com/benfinkelshtein"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "eBay",
+      "position": "Applied Researcher",
+      "url": "",
+      "startDate": "2022-06-01",
+      "endDate": "2023-01-01",
+//      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+//      "highlights": ["Relativity"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "SKF Group, AI Center of Excellence",
+      "position": "Data Scientist",
+      "url": "",
+      "startDate": "2020-08-01",
+      "endDate": "2021-05-01"
+    },
+    {
+      "name": "Rafael Advanced Defense Systems",
+      "position": "Algorithm Developer and Physicist",
+      "url": "",
+      "startDate": "2017-10-01",
+      "endDate": "2020-07-01"
     }
   ],
+//  "volunteer": [
+//    {
+//      "organization": "People's Climate March",
+//      "location": "Zurich, Switzerland",
+//      "position": "Lead Organizer",
+//      "url": "https://example.com",
+//      "startDate": "2014-04-01",
+//      "endDate": "2015-07-01",
+//      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+//      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+//    }
+//  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Oxford",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "startDate": "2023-01-01",
+//      "endDate": "Present",
+      "score": "",
+//      "courses": ["Theory of Relativity"]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "institution": "Technion - Israel Institute of Technology",
+      "area": "Computer Science",
+      "studyType": "M.Sc",
+      "startDate": "2019-11-01",
+      "endDate": "2022-06-01",
+      "score": "99.1"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "Technion - Israel Institute of Technology",
+      "area": "Electrical Engineering and Physics",
+      "studyType": "B.Sc.",
+      "startDate": "2013-11-01",
+      "endDate": "2017-07-01",
+      "score": "92.1"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Learning on Large Graphs using Intersecting Communities",
+      "releaseDate": "2024-05-01",
+      "publisher": "NeurIPS 2024",
+      "url": "https://arxiv.org/abs/2405.20724",
+      "summary": "A new and fundamentally different pipeline for learning on very large non-sparse graphs using intersecting communities."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Graph Neural Network Outputs are Almost Surely Asymptotically Constant",
+      "releaseDate": "2024-03-01",
+      "publisher": "NeurIPS 2024",
+      "url": "https://arxiv.org/abs/2403.03880",
+      "summary": "A new angle on the expressive power of GNNs by studying  how the predictions of a GNN probabilistic classifier evolve."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Cooperative Graph Neural Networks",
+      "releaseDate": "2024-01-01",
+      "publisher": "ICML 2024",
+      "url": "https://arxiv.org/abs/2310.01267",
+      "summary": "A more dynamic and flexible message-passing paradigm in which each node can choose a different communication strategy."
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Strategic Classification with Graphs Neural Networks",
+      "releaseDate": "2023-01-01",
+      "publisher": "ICLR 2023",
+      "url": "https://openreview.net/forum?id=TuHkVOjSAR",
+      "summary": "Learning in a setting where users that are dependant can modify their features to obtain favorable predictions."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "A Simple and Universal Rotation Equivariant Point-cloud Network",
+      "releaseDate": "2022-01-01",
+      "publisher": "ICML 2022",
+      "url": "https://arxiv.org/abs/2203.01216",
+      "summary": "A simple architecture which is equivariant to rigid motions with the ability to approximate any equivariant function."
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Single-Node Attack for Fooling Graph Neural Networks",
+      "releaseDate": "2021-01-01",
+      "publisher": "KDD21 & Neurocomputing by Elsevier",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0925231222012012",
+      "summary": "Showcased that GNNs are vulnerable to a realistic single-node adversarial attack, even when the attacker cannot be chosen."
     }
-  ]
+    ]
+//  "awards": [
+//    {
+//      "title": "Nobel Prize in Physics",
+//      "date": "1921-11-01",
+//      "awarder": "Royal Swedish Academy of Sciences",
+//      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+//      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+//    }
+//  ],
+//  "certificates": [
+//    {
+//      "name": "Machine Learning",
+//      "date": "2018-01-01",
+//      "issuer": "Stanford University",
+//      "url": "https://example.com",
+//      "icon": "fa-solid fa-location-dot"
+//    },
+//    {
+//      "name": "Quantum Computing",
+//      "date": "2018-01-01",
+//      "issuer": "Stanford University",
+//      "url": "https://example.com",
+//      "icon": "fa-solid fa-tag"
+//    },
+//    {
+//      "name": "Quantum Information",
+//      "date": "2018-01-01",
+//      "issuer": "Stanford University",
+//      "url": "https://example.com",
+//      "icon": "fa-solid fa-envelope"
+//    },
+//    {
+//      "name": "Quantum Cryptography",
+//      "date": "2018-01-01",
+//      "issuer": "Stanford University",
+//      "url": "https://example.com",
+//      "icon": "fa-solid fa-hashtag"
+//    },
+//    {
+//      "name": "Quantum Communication",
+//      "date": "2018-01-01",
+//      "issuer": "Stanford University",
+//      "url": "https://example.com",
+//      "icon": "fa-solid fa-calendar"
+//    },
+//    {
+//      "name": "Quantum Teleportation",
+//      "date": "2018-01-01",
+//      "issuer": "Stanford University",
+//      "url": "https://example.com",
+//      "icon": "fa-solid fa-clipboard-check"
+//    }
+//  ],
+//  "skills": [
+//    {
+//      "name": "Physics",
+//      "level": "Master",
+//      "icon": "fa-solid fa-hashtag",
+//      "keywords": [
+//        "Quantum Mechanics",
+//        "Quantum Computing",
+//        "Quantum Information",
+//        "Quantum Cryptography",
+//        "Quantum Communication",
+//        "Quantum Teleportation"
+//      ]
+//    }
+//  ],
+//  "languages": [
+//    {
+//      "language": "German",
+//      "fluency": "Native speaker",
+//      "icon": ""
+//    },
+//    {
+//      "language": "English",
+//      "fluency": "Fluent",
+//      "icon": ""
+//    }
+//  ],
+//  "interests": [
+//    {
+//      "name": "Physics",
+//      "icon": "fa-solid fa-tag",
+//      "keywords": [
+//        "Quantum Mechanics",
+//        "Quantum Computing",
+//        "Quantum Information",
+//        "Quantum Cryptography",
+//        "Quantum Communication",
+//        "Quantum Teleportation"
+//      ]
+//    }
+//  ],
+//  "references": [
+//    {
+//      "name": "Professor John Doe",
+//      "icon": "fa-solid fa-laptop",
+//      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+//    },
+//    {
+//      "name": "Professor John Doe",
+//      "icon": "fa-solid fa-thumbtack",
+//      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+//    }
+//  ],
+//  "projects": [
+//    {
+//      "name": "Quantum Computing",
+//      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+//      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+//      "startDate": "2018-01-01",
+//      "endDate": "2018-01-01",
+//      "url": "https://example.com"
+//    }
+//  ]
 }
