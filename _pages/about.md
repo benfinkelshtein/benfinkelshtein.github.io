@@ -22,7 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-PhD candidate at the University of Oxford under the supervision of Prof. Michael Bronstein and Dr. {\\.I}smail {\\.I}lkan Ceylan.
+PhD candidate at the University of Oxford under the supervision of Prof. Michael Bronstein and Dr. Ismail Ilkan Ceylan.
 With extensive experience in both academia and industry, I have worked on areas such as natural language processing, anomaly detection, and time series forecasting.",
 
 
