@@ -115,14 +115,14 @@
     {
       "name": "A Simple and Universal Rotation Equivariant Point-cloud Network",
       "releaseDate": "2022-01-01",
-      "publisher": "ICML 2022",
+      "publisher": "ICML TAG in ML Workshop 2022",
       "url": "https://arxiv.org/abs/2203.01216",
       "summary": "A simple architecture which is equivariant to rigid motions with the ability to approximate any equivariant function."
     },
     {
       "name": "Single-Node Attack for Fooling Graph Neural Networks",
       "releaseDate": "2021-01-01",
-      "publisher": "KDD21 & Neurocomputing by Elsevier",
+      "publisher": "Neurocomputing by Elsevier",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S0925231222012012",
       "summary": "Showcased that GNNs are vulnerable to a realistic single-node adversarial attack, even when the attacker cannot be chosen."
     }
