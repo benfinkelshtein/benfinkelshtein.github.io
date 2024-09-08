@@ -4,7 +4,6 @@
     "label": "Researcher",
     "image": "",
     "email": "ben.finkelshtein@cs.ox.ac.uk",
-//    "phone": "(912) 123-4567",
     "url": "https://www.linkedin.com/in/ben-finkelshtein/",
     "summary": "PhD candidate at the University of Oxford under the supervision of Prof. Michael Bronstein and Dr. {\\.I}smail {\\.I}lkan Ceylan. With extensive experience in both academia and industry, I have worked on areas such as natural language processing, anomaly detection, and time series forecasting.",
     "location": {
@@ -37,9 +36,7 @@
       "position": "Applied Researcher",
       "url": "",
       "startDate": "2022-06-01",
-      "endDate": "2023-01-01",
-//      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-//      "highlights": ["Relativity"]
+      "endDate": "2023-01-01"
     },
     {
       "name": "SKF Group, AI Center of Excellence",
@@ -62,7 +59,7 @@
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2023-01-01",
-      "score": "",
+      "score": ""
     },
     {
       "institution": "Technion - Israel Institute of Technology",
