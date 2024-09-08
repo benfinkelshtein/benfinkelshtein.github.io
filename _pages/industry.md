@@ -17,7 +17,7 @@ profiles:
     content: skf.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: rafael.jpg
+    image: rafael.png
     content: rafael.md
     image_circular: false # crops the image to make it circular
 ---
