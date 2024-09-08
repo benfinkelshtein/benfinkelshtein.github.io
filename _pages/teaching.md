@@ -8,7 +8,7 @@ nav_order: 4
 
 profiles:
   - align: right
-    image: oxford.jpg
+    image: oxford.png
     content: oxford.md
     image_circular: false # crops the image to make it circular
     more_info:
