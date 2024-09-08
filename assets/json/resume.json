@@ -1,18 +1,10 @@
 {
   "basics": {
     "name": "Ben Finkelshtein",
-    "label": "Researcher",
     "image": "",
     "email": "ben.finkelshtein@cs.ox.ac.uk",
     "url": "https://www.linkedin.com/in/ben-finkelshtein/",
-    "summary": "PhD candidate at the University of Oxford under the supervision of Prof. Michael Bronstein and Dr. {\\.I}smail {\\.I}lkan Ceylan. With extensive experience in both academia and industry, I have worked on areas such as natural language processing, anomaly detection, and time series forecasting.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Oxford",
-      "countryCode": "UK",
-      "region": "Oxfordshire"
-    },
+    "summary": "PhD candidate at the University of Oxford under the supervision of Prof. Michael Bronstein and Dr. Ismail Ilkan Ceylan. With extensive experience in both academia and industry, I have worked on areas such as natural language processing, anomaly detection, and time series forecasting.",
     "profiles": [
       {
         "network": "Google Scholar",
@@ -30,34 +22,11 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "eBay",
-      "position": "Applied Researcher",
-      "url": "",
-      "startDate": "2022-06-01",
-      "endDate": "2023-01-01"
-    },
-    {
-      "name": "SKF Group, AI Center of Excellence",
-      "position": "Data Scientist",
-      "url": "",
-      "startDate": "2020-08-01",
-      "endDate": "2021-05-01"
-    },
-    {
-      "name": "Rafael Advanced Defense Systems",
-      "position": "Algorithm Developer and Physicist",
-      "url": "",
-      "startDate": "2017-10-01",
-      "endDate": "2020-07-01"
-    }
-  ],
   "education": [
     {
       "institution": "University of Oxford",
       "area": "Computer Science",
-      "studyType": "PhD",
+      "studyType": "Ph.D",
       "startDate": "2023-01-01",
       "score": ""
     },
@@ -72,7 +41,7 @@
     {
       "institution": "Technion - Israel Institute of Technology",
       "area": "Electrical Engineering and Physics",
-      "studyType": "B.Sc.",
+      "studyType": "B.Sc",
       "startDate": "2013-11-01",
       "endDate": "2017-07-01",
       "score": "92.1"
@@ -115,5 +84,70 @@
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S0925231222012012",
       "summary": "Showcased that GNNs are vulnerable to a realistic single-node adversarial attack, even when the attacker cannot be chosen."
     }
-    ]
+    ],
+  "work": [
+    {
+      "name": "eBay",
+      "position": "Applied Researcher",
+      "url": "",
+      "startDate": "2022-06-01",
+      "endDate": "2023-01-01",
+      "summary": "Engineered NLP models to optimize search query relevance for landing pages, enhancing search engine optimization. Developed a keyword extraction technique integrated with GPT, resulting in a 30% increase in click-through rates within three months."
+    },
+    {
+      "name": "SKF Group, AI Center of Excellence",
+      "position": "Data Scientist",
+      "url": "",
+      "startDate": "2020-08-01",
+      "endDate": "2021-05-01",
+      "summary": "Led research in event prediction, anomaly detection, and time series forecasting for machinery fault diagnosis at SKF. Designed and implemented machine learning pipelines and developed an event-based evaluation metric that boosted anomaly detection accuracy from 78% to 90%."
+    },
+    {
+      "name": "Rafael Advanced Defense Systems",
+      "position": "Algorithm Developer and Physicist",
+      "url": "",
+      "startDate": "2017-10-01",
+      "endDate": "2020-07-01",
+      "summary": "Developed a neural network to predict $n$-body problem solutions for astronomy or aerodynamics in a classified setting. Created physics-based simulations to enhance model comparison, improving prediction accuracy by 21%. Performed data processing and statistical analysis on confidential data, presenting findings in a detailed report and presentation."
+    }
+  ],
+  "volunteer": [
+    {
+      "name": "University of Oxford, Faculty of Computer Science",
+      "position": "Head Teaching Assistant",
+      "url": "",
+      "startDate": "2023-01-01",
+      "summary": "Head TA for Geometric Deep Learning and Graph Representation Learning courses, responsible over the other TAs, creating coding assignments and guiding 20 students through coursework."
+    },
+    {
+      "name": "Blue Education",
+      "position": "Tutor",
+      "url": "",
+      "startDate": "2023-07-01",
+      "endDate": "2024-01-01",
+      "summary": "Taught Math, Physics, and Computer Science for A-Levels, SAT, and college exams as an online part-time tutor."
+    },
+    {
+      "name": "Technion - Israel Institute of Technology, Faculty of Computer Science",
+      "position": "Head Teaching Assistant",
+      "url": "",
+      "startDate": "2021-03-01",
+      "endDate": "2022-06-01",
+      "summary": "Head TA for the Geometric Deep Learning course, supervising 40 students and developing tutorials and code notebooks for the course."
+    },
+    {
+      "name": "Matematix – High-School and College Exam Preparation Center",
+      "position": "Teacher",
+      "url": "",
+      "startDate": "2012-07-01",
+      "endDate": "2013-11-01",
+      "summary": "Taught Mathematics, Physics, English, and Coding for matriculation, SAT, and college exams, leading sessions of 30 students."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Clarendon Fund Scholarship towards overseas tuition fees and living costs",
+      "date": "1921-11-01"
+    }
+  ]
 }
