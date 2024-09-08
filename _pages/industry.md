@@ -12,7 +12,7 @@ profiles:
     content: ebay.md
     image_circular: false # crops the image to make it circular
     more_info:
-  - align: left
+  - align: right
     image: skf.jpg
     content: skf.md
     image_circular: false # crops the image to make it circular
