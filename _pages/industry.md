@@ -5,7 +5,6 @@ title: Professional Experience
 description: 
 nav: true
 nav_order: 3
----
 
 profiles:
   - align: right
