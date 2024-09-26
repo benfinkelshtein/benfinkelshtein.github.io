@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Almost Surely Asymptotically Constant Graph Neural Networks has been accepted to NeurIPS 2024! :sparkles: :smile:
+Almost Surely Asymptotically Constant Graph Neural Networks is accepted to NeurIPS 2024! :sparkles: :smile:
