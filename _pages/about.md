@@ -22,9 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-PhD candidate at the University of Oxford under the supervision of Prof. Michael Bronstein and Dr. Ismail Ilkan Ceylan.
-With extensive experience in both academia and industry, I have worked on areas such as natural language processing, anomaly detection, and time series forecasting.
-
+Passionate researcher and PhD candidate at the University of Oxford, specializing in Geometric Deep Learning. Supervised by DeepMind Chair of AI Prof. Michael M. Bronstein and Dr. Ismail Ilkan Ceylan. My professional experience spans roles in AI research, anomaly detection, and NLP applications, driving measurable impact. Always eager to explore innovative solutions at the intersection of theory and application.
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 

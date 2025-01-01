@@ -4,7 +4,7 @@
     "image": "",
     "email": "ben.finkelshtein@cs.ox.ac.uk",
     "url": "https://www.linkedin.com/in/ben-finkelshtein/",
-    "summary": "PhD candidate at the University of Oxford under the supervision of Prof. Michael Bronstein and Dr. Ismail Ilkan Ceylan. With extensive experience in both academia and industry, I have worked on areas such as natural language processing, anomaly detection, and time series forecasting.",
+    "summary": "Passionate researcher and PhD candidate at the University of Oxford, specializing in Geometric Deep Learning. Supervised by DeepMind Chair of AI Prof. Michael M. Bronstein and Dr. Ismail Ilkan Ceylan. With extensive experience in both academia and industry, I have worked on areas such as natural language processing, anomaly detection, and time series forecasting.",
     "profiles": [
       {
         "network": "Google Scholar",
@@ -92,7 +92,7 @@
       "url": "",
       "startDate": "2022-06-01",
       "endDate": "2023-01-01",
-      "summary": "Engineered NLP models to optimize search query relevance for landing pages, enhancing search engine optimization. Developed a keyword extraction technique integrated with GPT, resulting in a 30% increase in click-through rates within three months."
+      "summary": "Engineered large language models (LLMs) to match user queries with the most relevant landing pages for search engine optimization. This involved developing a novel keyword extraction technique, which I integrated with GPT-3 and subsequently fine-tuned for optimal performance. These efforts resulted in a significant improvement in user engagement, achieving a 30% increase in landing page click-through rates (CTR) within the first three months of implementation."
     },
     {
       "name": "SKF Group, AI Center of Excellence",
@@ -100,7 +100,7 @@
       "url": "",
       "startDate": "2020-08-01",
       "endDate": "2021-05-01",
-      "summary": "Led research in event prediction, anomaly detection, and time series forecasting for machinery fault diagnosis at SKF. Designed and implemented machine learning pipelines and developed an event-based evaluation metric that boosted anomaly detection accuracy from 78% to 90%."
+      "summary": "Designed, customized, and implemented end-to-end machine learning pipelines, taking projects from initial ideation to production. I led research initiatives focused on event prediction, anomaly detection, and time series forecasting to support machinery fault diagnosis. My work included creating an event-based evaluation metric that enhanced the company’s anomaly detection accuracy from 78% to 90%, significantly improving operational reliability."
     },
     {
       "name": "Rafael Advanced Defense Systems",
@@ -108,7 +108,7 @@
       "url": "",
       "startDate": "2017-10-01",
       "endDate": "2020-07-01",
-      "summary": "Developed a neural network to predict n-body problem solutions for astronomy or aerodynamics in a classified setting. Created physics-based simulations to enhance model comparison, improving prediction accuracy by 21%. Performed data processing and statistical analysis on confidential data, presenting findings in a detailed report and presentation."
+      "summary": "A specialized military service assignment awarded to only one recruit per year, I created a neural network to predict $n$-body problem solutions for classified company use. Additionally, I engineered generative models to predict molecular dynamics pathways using physical simulations and developed new models to analyze stable and transient protein folding conformations, advancing our understanding of complex biological processes."
     }
   ],
   "teaching experience": [
@@ -117,7 +117,7 @@
       "position": "Head Teaching Assistant",
       "url": "",
       "startDate": "2023-01-01",
-      "summary": "Head TA for Geometric Deep Learning and Graph Representation Learning courses, responsible over the other TAs, creating coding assignments and guiding 20 students through coursework."
+      "summary": "Head TA for Geometric Deep Learning and Graph Representation Learning courses, responsible over the other TAs, creating coding assignments and guiding 30 students through coursework."
     },
     {
       "name": "Blue Education",
@@ -146,8 +146,28 @@
   ],
   "awards": [
     {
-      "title": "Clarendon Fund Scholarship towards overseas tuition fees and living costs",
-      "date": "2023-01-01"
+      "title": "G-Research Grant - £2000",
+      "date": "2023-07-01"
+    },
+    {
+      "title": "Graduated with highest honors (Top 1%) from a Master of Science in Computer Science",
+      "date": "2023-07-01"
+    },
+    {
+      "title": "Clarendon Scholarship of over £200,000 towards tuition fees and living costs ( < 1% acceptance)",
+      "date": "2022-07-01"
+    },
+    {
+      "title": "M.Sc Study Scholarship of over £45,000",
+      "date": "2019-11-01"
+    },
+    {
+      "title": "Graduated with great honors (Top 3%) from a Bachelors of Science in Electrical Engineering",
+      "date": "2018-07-01"
+    },
+    {
+      "title": "Graduated with great honors (Top 3%) from a Bachelors of Science in Physics",
+      "date": "2018-07-01"
     }
   ]
 }
