@@ -89,7 +89,7 @@
             {% if post.redirect == blank %}
               window.location.href = "{{ post.url | relative_url }}";
             {% elsif post.redirect contains '://' %}
-              window.open("{{ post.redirect }}", "_blank");
+              window.open("{{ post.redirect | replace: "'", "\'" }}", "_blank");
             {% else %}
               window.location.href = "{{ post.redirect | relative_url }}";
             {% endif %}
