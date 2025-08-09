@@ -6,7 +6,7 @@ subtitle: <a href='https://www.cs.ox.ac.uk/people/ben.finkelshtein/'>University 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
 
 [//]: # (  more_info: >)
@@ -22,7 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Passionate researcher and PhD candidate at the University of Oxford, specializing in Geometric Deep Learning. Supervised by DeepMind Chair of AI Prof. Michael M. Bronstein and Dr. Ismail Ilkan Ceylan. My professional experience spans roles in AI research, anomaly detection, and NLP applications, driving measurable impact. Always eager to explore innovative solutions at the intersection of theory and application.
+Passionate researcher and PhD candidate at the University of Oxford, specializing in Geometric Deep Learning. Supervised by DeepMind Chair of AI Prof. Michael M. Bronstein and Dr. Ismail Ilkan Ceylan. With professional experience in machine learning and large language model research at Microsoft. Always eager to explore innovative solutions at the intersection of theory and application.
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 
