@@ -38,8 +38,10 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix"> 
+    <div class="clearfix">
         {{ content }}
+
+        CV:
         {% if page.cv_pdf %}
           <a
             href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
