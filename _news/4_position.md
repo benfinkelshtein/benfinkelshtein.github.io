@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Position: Graph Learning Will Lose Relevance Due To Poor Benchmarks is accepted to ICML 2025! :sparkles: :smile:
+Position: Graph Learning Will Lose Relevance Due To Poor Benchmarks is accepted to ICML 2025

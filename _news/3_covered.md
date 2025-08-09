@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Covered Forest: Fine-grained generalization analysis of graph neural networks is accepted as spotlight (top 2%) at ICML 2025! :sparkles: :smile:
+Covered Forest: Fine-grained generalization analysis of graph neural networks is accepted as spotlight (top 2%) at ICML 2025
