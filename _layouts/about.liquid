@@ -41,7 +41,7 @@ layout: default
     <div class="clearfix">
         {{ content }}
 
-        CV:
+        <p>CV:</p>
         {% if page.cv_pdf %}
           <a
             href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
