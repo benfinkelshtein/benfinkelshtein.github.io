@@ -8,6 +8,11 @@ nav_order: 3
 
 profiles:
   - align: right
+    image: google.png
+    content: google.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+  - align: right
     image: microsoft.png
     content: microsoft.md
     image_circular: false # crops the image to make it circular

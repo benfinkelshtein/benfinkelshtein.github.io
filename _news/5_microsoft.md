@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started internship at Microsoft HQ (Redmond, USA) on solving graph ML problems with Agents
+Started an internship at Microsoft Research US HQ on the capabilities of LLMs in processing graph information
