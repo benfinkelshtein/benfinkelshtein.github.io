@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Actions Speak Louder than Prompts: A Large-Scale Study of LLMs for Graph Inference is accepted to ICLR 2026
+Actions Speak Louder than Prompts: A Large-Scale Study of LLMs for Graph Inference is selected for an ORAL at ICLR 2026
