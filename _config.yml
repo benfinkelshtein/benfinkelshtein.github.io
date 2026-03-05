@@ -168,9 +168,11 @@ external_sources:
     rss_url:
   - name: Geometric Deep Learning Blog Posts
     posts:
+      - url: https://www.microsoft.com/en-us/research/articles/actions-speak-louder-than-prompts-rethinking-how-llms-reason-over-graph-data/
+        published_date: 2026-03-03
       - url: https://towardsdatascience.com/graph-geometric-ml-in-2024-where-we-are-and-whats-next-part-i-theory-architectures-3af5d38376e1
         published_date: 2024-01-16
-      - url: https://towardsdatascience.com/co-operative-graph-neural-networks-34c59bf6805e
+      - url: https://medium.com/data-science/co-operative-graph-neural-networks-34c59bf6805e
         published_date: 2023-12-06
 
 # -----------------------------------------------------------------------------
